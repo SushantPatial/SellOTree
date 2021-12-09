@@ -6,28 +6,25 @@ SellOTree is a web app for fundraising. This website aims towards raising funds 
 Due to massive commercialization, we are somewhere neglecting our mother Earth. Environment's CO2 level is increasing at an alarming rate. So, to deal with it we can perform our roles as a concerned citizen and take initiative towards making contributions for a better future.
 
 ### Home
-![Home](Readme-img/1.png)
+![image](https://user-images.githubusercontent.com/84243683/145456913-cb03d467-2cbf-46c2-a66d-ef89b1ef40fb.png)
 
 ### Get Involved
-![Get Involved](Readme-img/2.png)
+![image](https://user-images.githubusercontent.com/84243683/145456953-c91ccc08-2e22-477e-b6b7-99cedd4bcccf.png)
 
 ### Top Contributors
-![Home](Readme-img/3.png)
+![image](https://user-images.githubusercontent.com/84243683/145456993-e6a0a810-15ed-4dd2-b800-bafc1bd9144f.png)
 
 ### Donate
-![Donate](Readme-img/4.png)
+![image](https://user-images.githubusercontent.com/84243683/145457062-cab77839-c2be-4e78-965f-f58cb3d68722.png)
 
 ### Contact Us
-![Contact Us](Readme-img/5.png)
-
-### Newsletter
-![Newsletter](Readme-img/6.png)
+![image](https://user-images.githubusercontent.com/84243683/145457100-bf12ee7b-9131-4723-a0c9-83e6cb44b9e7.png)
 
 ### FAQs
-![FAQs](Readme-img/7.png)
+![image](https://user-images.githubusercontent.com/84243683/145457191-09f95ad5-01bb-4ca7-b5cb-622a9171e6e4.png)
 
-### Team
-![Team](Readme-img/8.png)
+### Newsletter
+![image](https://user-images.githubusercontent.com/84243683/145457452-22aaade7-e542-4904-8f19-224ec39c0efc.png)
 
 ## Features
 * Payment Gateway (Donate) 
@@ -36,7 +33,6 @@ Due to massive commercialization, we are somewhere neglecting our mother Earth. 
 * Top Donor's list 
 * Contact Us 
 * Newsletter Subscription 
-
 * FAQs 
 
 ## What's next for SellOTree
