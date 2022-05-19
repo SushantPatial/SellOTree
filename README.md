@@ -45,5 +45,5 @@ Establishing SellOTree's plantation drives and starting with the collaboration f
 * Run index.html file
 
 ## Website
-* Link: https://sushantpatial.github.io/SellOTree/
+Link: https://sushantpatial.github.io/SellOTree/
 
